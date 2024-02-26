@@ -1,0 +1,16 @@
+{
+  "name": "example-library",
+  "version": "1.0.0",
+  "description": "Example library for testing purposes.",
+  "main": "main/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
